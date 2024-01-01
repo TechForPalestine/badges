@@ -57,7 +57,7 @@ message and alt text.
 
 Completely configurable badges can also be built using the interface on Shields.io: https://shields.io/badges/static-badge
 
-# How to spread
+# How to help
 
 It is valuable to have these badges on as many repos as possible. However, in
 some cases these badges will be contentious. We would suggest adding them to
@@ -83,3 +83,9 @@ target. By design, most badges are low-risk and are designed for those just
 learning about the conflict and hoping for peace, while some are designed for
 those with a better understanding, and take a more principled approach. You
 should use the badge that feels appropriate to you.
+
+# Implementation
+
+Badges are implemented as Cloudflare redirects to
+[shields.io](https://shields.io). Those with access to the techforpalestine
+cloudflare account can make changes in the "badges" Bulk Redirect List.
