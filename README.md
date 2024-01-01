@@ -1,15 +1,13 @@
-# Badges for peace in Palestine
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
+# Badges supporting peace in Palestine
 
 These badges are intended to show support for an end to violence in Gaza, and a
 long-term peace between the people of Israel and Palestine. To accomplish
 this, we must support the people of Palestine in their desire for human rights
 and equality, which these badges indicate support for.
 
-See discussion below for how and why we built these.
-
 # Default badge
-
-[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
 ```
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
