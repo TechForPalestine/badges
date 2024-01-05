@@ -9,9 +9,10 @@ and equality, which these badges indicate support for.
 
 # Default badge
 
-```
 [![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 
+```md
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
 ```
 
 The default badge is served from Tech For Palestine servers, allowing us to
@@ -29,17 +30,17 @@ support.
 
 [![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
 
-```
+```md
 [![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
 ```
 
 Direct from shields.io:
 
-```
+```md
 [![Ceasefire now](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_Ceasefire_Now-techforpalestine.org-000000?labelColor=gray&color=D83838)](https://techforpalestine.org/learn-more)
 ```
 
-# Alternatives
+# Variations
 
 We recommend using a message you're comfortable with - it's more important to
 have your support than to use one of our messages.
@@ -54,6 +55,59 @@ message and alt text.
 ![ADD ALT TEXT HERE](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_YOUR_MESSAGE_HERE-techforpalestine.org-000?labelColor=grey&color=D83838&link=https%3A%2F%2Ftechforpalestine.org%2Flearn-more)
 
 Completely configurable badges can also be built using the interface on Shields.io: https://shields.io/badges/static-badge
+
+# Alternative Awesome Badge Projects
+
+This repo is meant to serve as a jump off point to get OSS maintainers to add pro-palestinian badges to their projects, above we've provided some basic versions however these aren't the only options. All over github developers have made awesome pro-palestine badges which you may want to consider.
+
+### [support-palestine-banner By @Safouene1](https://github.com/Safouene1/support-palestine-banner) 
+
+Along with the examples below, this project also has components for React, NextJs 13, Vue (V2 & V3) with Tailwind.
+
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+
+```md
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+```
+
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
+
+```md
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
+```
+
+### [StandWithPalestine By @saedyousef](https://github.com/saedyousef/StandWithPalestine)
+
+Examples:
+
+[![StandWithPalestineBadge](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
+
+```md
+[![StandWithPalestineBadge](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+```
+
+[![StandWithPalestineBadgeLight](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/WeStandWithPalestine_light.svg)](https://github.com/Safouene1/support-palestine-banner)
+
+```md
+[![StandWithPalestineBadgeLight](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/WeStandWithPalestine_light.svg)](https://techforpalestine.org/learn-more)
+```
+
+[![StandWithPalestineBadgeBordered](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/bordered/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
+
+```md
+[![StandWithPalestineBadgeBordered](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/bordered/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+```
+
+### [Stand with Palestine By @zeyadetman & @elharony](https://github.com/zeyadetman/stand-with-palestine)
+
+This project is more designed to be added as a footed to your website however you can take a static link which should be updated daily and add it as a footer to your readme.
+
+
+[![PalestineStatsFooter](https://private-user-images.githubusercontent.com/16986422/282255723-dd2369a1-eeda-4e35-a624-690e990e9b61.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQzNzA4MDIsIm5iZiI6MTcwNDM3MDUwMiwicGF0aCI6Ii8xNjk4NjQyMi8yODIyNTU3MjMtZGQyMzY5YTEtZWVkYS00ZTM1LWE2MjQtNjkwZTk5MGU5YjYxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA0VDEyMTUwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdiZWU1NzBkNWExZTI5MzkyNTQ2N2UxMTdkZmM1MDM1NjA5OWFmNTNmN2E1ZmE3M2RlMGQwOGI5NDk0NTM3MjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mIR9N2yvTQwLd2PpVvj_WMi7N1MS2_VYK73D5BqrrpM)](https://github.com/Safouene1/support-palestine-banner)
+
+```md
+[![PalestineStatsFooter](https://private-user-images.githubusercontent.com/16986422/282255723-dd2369a1-eeda-4e35-a624-690e990e9b61.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQzNzA4MDIsIm5iZiI6MTcwNDM3MDUwMiwicGF0aCI6Ii8xNjk4NjQyMi8yODIyNTU3MjMtZGQyMzY5YTEtZWVkYS00ZTM1LWE2MjQtNjkwZTk5MGU5YjYxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA0VDEyMTUwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdiZWU1NzBkNWExZTI5MzkyNTQ2N2UxMTdkZmM1MDM1NjA5OWFmNTNmN2E1ZmE3M2RlMGQwOGI5NDk0NTM3MjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mIR9N2yvTQwLd2PpVvj_WMi7N1MS2_VYK73D5BqrrpM)](https://techforpalestine.org/learn-more)
+```
 
 # How to help
 
