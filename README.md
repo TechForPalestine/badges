@@ -62,7 +62,7 @@ This repo is meant to serve as a jump off point to get OSS maintainers to add pr
 
 ### [support-palestine-banner By @Safouene1](https://github.com/Safouene1/support-palestine-banner) 
 
-Along with the examples below, this project also has components for React ,NextJs 13, Vue (V2 & V3) with Tailwind.
+Along with the examples below, this project also has components for React, NextJs 13, Vue (V2 & V3) with Tailwind.
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 
