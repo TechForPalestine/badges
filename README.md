@@ -53,10 +53,11 @@ We recommend using a message you're comfortable with - it's more important to
 have your support than to use one of our messages.
 
 To use your own custom badge, you can use the following code, inserting your own
-message and alt text.
+message and alt text. The `color` and `labelColor` parameters are also
+customizable.
 
 ```
-![ADD ALT TEXT HERE](https://img.shields.io/badge/YOUR_MESSAGE_HERE-%F0%9F%87%B5%F0%9F%87%B8%20Tech_For_Palestine-D83838?labelColor=01B861&color=D83838&link=https%3A%2F%2Ftechforpalestine.org%2Flearn-more)
+![ADD ALT TEXT HERE](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_YOUR_MESSAGE_HERE-techforpalestine.org-000?labelColor=grey&color=D83838&link=https%3A%2F%2Ftechforpalestine.org%2Flearn-more)
 ```
 
 ![ADD ALT TEXT HERE](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_YOUR_MESSAGE_HERE-techforpalestine.org-000?labelColor=grey&color=D83838&link=https%3A%2F%2Ftechforpalestine.org%2Flearn-more)
