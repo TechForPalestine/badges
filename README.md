@@ -2,10 +2,17 @@
 
 # Badges supporting peace in Palestine
 
-These badges are intended to show support for an end to violence in Gaza, and a
-long-term peace between the people of Israel and Palestine. To accomplish
-this, we must support the people of Palestine in their desire for human rights
-and equality, which these badges indicate support for.
+These badges, in the immediate term, are intended to show support for an end to the current phase of violence in Palestine, primarily in Gaza. In the longer term, they are meant to show support for a free Palestine and a lasting justice and peace. 
+
+To accomplish this, we must support the people of Palestine in their desire for human rights and equality, which these badges are intended to indicate support for.
+
+## List of organizations calling for a ceasefire
+You will be joining dozens of international organizations who are calling for a ceasefire. These are a few of the organizations calling for a ceasefire:
+
+- [Oxfam](https://www.oxfam.org/en/open-call-immediate-ceasefire-occupied-palestinian-territory)
+- [A coalition of humanitarian organizations](https://interagencystandingcommittee.org/inter-agency-standing-committee/we-need-immediate-humanitarian-ceasefire-statement-principals-inter-agency-standing-committee), including the United Nations High Commissioner for Human Rights, [Save the Children](https://www.savethechildren.net/), [UNICEF](https://www.unicef.org/), [UNCHR](https://www.unhcr.org/), among others
+- [Amnesty International](https://www.amnestyusa.org/press-releases/nearly-1-million-across-u-s-call-for-ceasefire-now/)
+
 
 # Default badge
 
