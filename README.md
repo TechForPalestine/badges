@@ -2,10 +2,17 @@
 
 # Badges supporting peace in Palestine
 
-These badges are intended to show support for an end to violence in Gaza, and a
-long-term peace between the people of Israel and Palestine. To accomplish
-this, we must support the people of Palestine in their desire for human rights
-and equality, which these badges indicate support for.
+These badges, in the immediate term, are intended to show support for an end to the current phase of violence in Palestine, primarily in Gaza. In the longer term, they are meant to show support for a free Palestine and a lasting justice and peace. 
+
+To accomplish this, we must support the people of Palestine in their desire for human rights and equality, which these badges are intended to indicate support for.
+
+## List of organizations calling for a ceasefire
+You will be joining dozens of international organizations who are calling for a ceasefire. These are a few of the organizations calling for a ceasefire:
+
+- [Oxfam](https://www.oxfam.org/en/open-call-immediate-ceasefire-occupied-palestinian-territory)
+- [A coalition of humanitarian organizations](https://interagencystandingcommittee.org/inter-agency-standing-committee/we-need-immediate-humanitarian-ceasefire-statement-principals-inter-agency-standing-committee), including the United Nations High Commissioner for Human Rights, [Save the Children](https://www.savethechildren.net/), [UNICEF](https://www.unicef.org/), [UNCHR](https://www.unhcr.org/), among others
+- [Amnesty International](https://www.amnestyusa.org/press-releases/nearly-1-million-across-u-s-call-for-ceasefire-now/)
+
 
 # Default badge
 
@@ -25,7 +32,7 @@ people.
 
 # Static badges
 
-The following badges will not change message, allowing you control the message you
+The following badges will not change message, allowing you to control the message you
 support.
 
 [![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
@@ -100,7 +107,7 @@ Examples:
 
 ### [Stand with Palestine By @zeyadetman & @elharony](https://github.com/zeyadetman/stand-with-palestine)
 
-This project is more designed to be added as a footed to your website however you can take a static link which should be updated daily and add it as a footer to your readme.
+This project is more designed to be added as a footer to your website however you can take a static link which should be updated daily and add it as a footer to your readme.
 
 
 [![PalestineStatsFooter](https://private-user-images.githubusercontent.com/16986422/282255723-dd2369a1-eeda-4e35-a624-690e990e9b61.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQzNzA4MDIsIm5iZiI6MTcwNDM3MDUwMiwicGF0aCI6Ii8xNjk4NjQyMi8yODIyNTU3MjMtZGQyMzY5YTEtZWVkYS00ZTM1LWE2MjQtNjkwZTk5MGU5YjYxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA0VDEyMTUwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdiZWU1NzBkNWExZTI5MzkyNTQ2N2UxMTdkZmM1MDM1NjA5OWFmNTNmN2E1ZmE3M2RlMGQwOGI5NDk0NTM3MjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mIR9N2yvTQwLd2PpVvj_WMi7N1MS2_VYK73D5BqrrpM)](https://github.com/Safouene1/support-palestine-banner)
@@ -113,7 +120,7 @@ This project is more designed to be added as a footed to your website however yo
 
 It is valuable to have these badges on as many repos as possible. However, in
 some cases these badges will be contentious. We would suggest adding them to
-your own repos, and then mentioning publicly or in your communities that you has
+your own repos, and then mentioning publicly or in your communities that you have
 done so. Merely seeing them will allow people already sympathetic to join the
 cause, and allow those who do not know what to think know that there is support
 for Palestine within tech.
