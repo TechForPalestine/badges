@@ -2,17 +2,17 @@
 
 # Badges supporting peace in Palestine
 
-These badges, in the immediate term, are intended to show support for an end to the current phase of violence in Palestine, primarily in Gaza. In the longer term, they are meant to show support for a free Palestine and a lasting justice and peace. 
+These badges, in the immediate term, are intended to show support for an end to the current phase of violence in Palestine, primarily in Gaza. In the longer term, they are meant to show support for a free Palestine and a lasting justice and peace.
 
 To accomplish this, we must support the people of Palestine in their desire for human rights and equality, which these badges are intended to indicate support for.
 
 ## List of organizations calling for a ceasefire
+
 You will be joining dozens of international organizations who are calling for a ceasefire. These are a few of the organizations calling for a ceasefire:
 
 - [Oxfam](https://www.oxfam.org/en/open-call-immediate-ceasefire-occupied-palestinian-territory)
 - [A coalition of humanitarian organizations](https://interagencystandingcommittee.org/inter-agency-standing-committee/we-need-immediate-humanitarian-ceasefire-statement-principals-inter-agency-standing-committee), including the United Nations High Commissioner for Human Rights, [Save the Children](https://www.savethechildren.net/), [UNICEF](https://www.unicef.org/), [UNCHR](https://www.unhcr.org/), among others
 - [Amnesty International](https://www.amnestyusa.org/press-releases/nearly-1-million-across-u-s-call-for-ceasefire-now/)
-
 
 # Default badge
 
@@ -62,13 +62,13 @@ customizable.
 
 ![ADD ALT TEXT HERE](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_YOUR_MESSAGE_HERE-techforpalestine.org-000?labelColor=grey&color=D83838&link=https%3A%2F%2Ftechforpalestine.org%2Flearn-more)
 
-Completely configurable badges can also be built using the interface on Shields.io: https://shields.io/badges/static-badge
+Completely configurable badges can also be built using the interface on Shields.io: <https://shields.io/badges/static-badge>
 
 # Alternative Awesome Badge Projects
 
 This repo is meant to serve as a jump off point to get OSS maintainers to add pro-palestinian badges to their projects, above we've provided some basic versions however these aren't the only options. All over github developers have made awesome pro-palestine badges which you may want to consider.
 
-### [support-palestine-banner By @Safouene1](https://github.com/Safouene1/support-palestine-banner) 
+### [support-palestine-banner By @Safouene1](https://github.com/Safouene1/support-palestine-banner)
 
 Along with the examples below, this project also has components for React, NextJs 13, Vue (V2 & V3) with Tailwind.
 
@@ -110,11 +110,10 @@ Examples:
 
 This project is more designed to be added as a footer to your website however you can take a static link which should be updated daily and add it as a footer to your readme.
 
-
-[![PalestineStatsFooter](https://private-user-images.githubusercontent.com/16986422/282255723-dd2369a1-eeda-4e35-a624-690e990e9b61.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQzNzA4MDIsIm5iZiI6MTcwNDM3MDUwMiwicGF0aCI6Ii8xNjk4NjQyMi8yODIyNTU3MjMtZGQyMzY5YTEtZWVkYS00ZTM1LWE2MjQtNjkwZTk5MGU5YjYxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA0VDEyMTUwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdiZWU1NzBkNWExZTI5MzkyNTQ2N2UxMTdkZmM1MDM1NjA5OWFmNTNmN2E1ZmE3M2RlMGQwOGI5NDk0NTM3MjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mIR9N2yvTQwLd2PpVvj_WMi7N1MS2_VYK73D5BqrrpM)](https://github.com/Safouene1/support-palestine-banner)
+[![PalestineStatsFooter](https://private-user-images.githubusercontent.com/16986422/282255723-dd2369a1-eeda-4e35-a624-690e990e9b61.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc2NzQxNjUsIm5iZiI6MTcwNzY3Mzg2NSwicGF0aCI6Ii8xNjk4NjQyMi8yODIyNTU3MjMtZGQyMzY5YTEtZWVkYS00ZTM1LWE2MjQtNjkwZTk5MGU5YjYxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjExVDE3NTEwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI3N2Q1MmM0NWRhODI3MDRmNGMyZTU4YmEyODY4NjA1OWExNzY3Y2JhODgxZDU4MmU4YmY5Njg2NTYxMDY3ODAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.8GsREQF5ks003mOftAEsU-7e_-5iGHbK0ZVHmz3G46c)](https://github.com/Safouene1/support-palestine-banner)
 
 ```md
-[![PalestineStatsFooter](https://private-user-images.githubusercontent.com/16986422/282255723-dd2369a1-eeda-4e35-a624-690e990e9b61.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQzNzA4MDIsIm5iZiI6MTcwNDM3MDUwMiwicGF0aCI6Ii8xNjk4NjQyMi8yODIyNTU3MjMtZGQyMzY5YTEtZWVkYS00ZTM1LWE2MjQtNjkwZTk5MGU5YjYxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA0VDEyMTUwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdiZWU1NzBkNWExZTI5MzkyNTQ2N2UxMTdkZmM1MDM1NjA5OWFmNTNmN2E1ZmE3M2RlMGQwOGI5NDk0NTM3MjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.mIR9N2yvTQwLd2PpVvj_WMi7N1MS2_VYK73D5BqrrpM)](https://techforpalestine.org/learn-more)
+[![PalestineStatsFooter](https://private-user-images.githubusercontent.com/16986422/282255723-dd2369a1-eeda-4e35-a624-690e990e9b61.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc2NzQxNjUsIm5iZiI6MTcwNzY3Mzg2NSwicGF0aCI6Ii8xNjk4NjQyMi8yODIyNTU3MjMtZGQyMzY5YTEtZWVkYS00ZTM1LWE2MjQtNjkwZTk5MGU5YjYxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjExVDE3NTEwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI3N2Q1MmM0NWRhODI3MDRmNGMyZTU4YmEyODY4NjA1OWExNzY3Y2JhODgxZDU4MmU4YmY5Njg2NTYxMDY3ODAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.8GsREQF5ks003mOftAEsU-7e_-5iGHbK0ZVHmz3G46c)](https://techforpalestine.org/learn-more)
 ```
 
 # How to help
