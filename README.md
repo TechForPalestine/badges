@@ -88,22 +88,22 @@ Along with the examples below, this project also has components for React, NextJ
 
 Examples:
 
-[![StandWithPalestineBadge](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
+[![StandWithPalestineBadge](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://github.com/saedyousef/StandWithPalestine)
 
 ```md
-[![StandWithPalestineBadge](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+[![StandWithPalestineBadge](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/IStandWithPalestine.svg)](https://github.com/saedyousef/StandWithPalestine)
 ```
 
-[![StandWithPalestineBadgeLight](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/WeStandWithPalestine_light.svg)](https://github.com/Safouene1/support-palestine-banner)
+[![StandWithPalestineBadgeLight](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/WeStandWithPalestine_light.svg)](https://github.com/saedyousef/StandWithPalestine)
 
 ```md
-[![StandWithPalestineBadgeLight](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/WeStandWithPalestine_light.svg)](https://techforpalestine.org/learn-more)
+[![StandWithPalestineBadgeLight](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/WeStandWithPalestine_light.svg)](https://github.com/saedyousef/StandWithPalestine)
 ```
 
-[![StandWithPalestineBadgeBordered](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/bordered/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner)
+[![StandWithPalestineBadgeBordered](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/bordered/StandWithPalestine.svg)](https://github.com/saedyousef/StandWithPalestine)
 
 ```md
-[![StandWithPalestineBadgeBordered](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/bordered/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+[![StandWithPalestineBadgeBordered](https://raw.githubusercontent.com/saedyousef/StandWithPalestine/main/badges/flat/bordered/StandWithPalestine.svg)](https://github.com/saedyousef/StandWithPalestine)
 ```
 
 ### [Stand with Palestine By @zeyadetman & @elharony](https://github.com/zeyadetman/stand-with-palestine)
