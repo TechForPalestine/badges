@@ -47,6 +47,12 @@ Direct from shields.io:
 [![Ceasefire now](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_Ceasefire_Now-techforpalestine.org-000000?labelColor=gray&color=D83838)](https://techforpalestine.org/learn-more)
 ```
 
+[![Free Palestine](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_FREE_PALESTINE-techforpalestine.org-000000?labelColor=gray&color=D83838)](https://techforpalestine.org/learn-more)
+
+```md
+[![Free Palestine](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_FREE_PALESTINE-techforpalestine.org-000000?labelColor=gray&color=D83838)](https://techforpalestine.org/learn-more)
+```
+
 # Variations
 
 We recommend using a message you're comfortable with - it's more important to
