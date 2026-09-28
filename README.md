@@ -90,6 +90,14 @@ Along with the examples below, this project also has components for React, NextJ
 [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
 ```
 
+An updated version of this banner, with "hundreds of thousands" in place of "tens of thousands":
+
+[![ReadMeSupportPalestine](banners/banner-support-hundreds.svg)](https://techforpalestine.org/learn-more)
+
+```md
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/TechForPalestine/badges/main/banners/banner-support-hundreds.svg)](https://techforpalestine.org/learn-more)
+```
+
 ### [StandWithPalestine By @saedyousef](https://github.com/saedyousef/StandWithPalestine)
 
 Examples:
