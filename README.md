@@ -47,6 +47,12 @@ Direct from shields.io:
 [![Ceasefire now](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_Ceasefire_Now-techforpalestine.org-000000?labelColor=gray&color=D83838)](https://techforpalestine.org/learn-more)
 ```
 
+[![Free Palestine](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_FREE_PALESTINE-techforpalestine.org-000000?labelColor=gray&color=D83838)](https://techforpalestine.org/learn-more)
+
+```md
+[![Free Palestine](https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B8_FREE_PALESTINE-techforpalestine.org-000000?labelColor=gray&color=D83838)](https://techforpalestine.org/learn-more)
+```
+
 # Variations
 
 We recommend using a message you're comfortable with - it's more important to
@@ -82,6 +88,14 @@ Along with the examples below, this project also has components for React, NextJ
 
 ```md
 [![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
+```
+
+An updated version of this banner, with "hundreds of thousands" in place of "tens of thousands":
+
+[![ReadMeSupportPalestine](banners/banner-support-hundreds.svg)](https://techforpalestine.org/learn-more)
+
+```md
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/TechForPalestine/badges/main/banners/banner-support-hundreds.svg)](https://techforpalestine.org/learn-more)
 ```
 
 ### [StandWithPalestine By @saedyousef](https://github.com/saedyousef/StandWithPalestine)
